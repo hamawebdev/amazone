@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/hamawebdev/amazone-clone">
+  <a href="https://github.com/hamawebdev/amazone">
     <img src="images/amazon-mobile-logo.png" alt="Logo" width="80" height="80">
   </a>
 
