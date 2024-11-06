@@ -11,7 +11,7 @@
   <p align="center">
     An Amazon Clone
     <br />
-    <a href="https://hamawebdev.github.io/amazon-clone/"><strong>Explore the website »</strong></a>
+    <a href="https://hamawebdev.github.io/amazone/"><strong>Explore the website »</strong></a>
     <br />
     <br />
   </p>
