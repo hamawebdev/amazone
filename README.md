@@ -60,6 +60,6 @@
 ## Additional Information
 
 
-Project start date: 15/09/2024
+Project start date: 15/10/2024
 
 Project end date: 06/11/2024.
